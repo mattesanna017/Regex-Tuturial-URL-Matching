@@ -1,4 +1,4 @@
-# Regex-Tuturial-URL-Matching
+# Regex-Tutorial-URL-Matching
 
 We will look at a regular expression for matching a URL in this tutorial. With the help of this illustration, we can start to develop a fundamental grasp of regular expressions, including what each component signifies, how to use them in code to specify search patterns, and how to verify that particular strings satisfy particular requirements. This guide is only meant to serve as a very basic introduction to regular expressions; it does not attempt to cover all of their complexity.
 
